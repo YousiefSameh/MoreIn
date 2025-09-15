@@ -74,8 +74,8 @@ A modern, bilingual food ordering platform built with Next.js 15, featuring cust
    STRIPE_SECRET_KEY_TEST="sk_test_..."
    
    # NextAuth (if implementing authentication)
-   NEXTAUTH_SECRET="your-secret-key"
-   NEXTAUTH_URL="http://localhost:3000"
+   BETTER_AUTH_SECRET="your-secret-key"
+   BETTER_AUTH_URL="http://localhost:3000"
    
    # App Configuration
    NEXT_PUBLIC_APP_URL="http://localhost:3000"
